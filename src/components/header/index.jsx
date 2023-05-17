@@ -1,11 +1,11 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import './index.css';
+import React from "react";
+import { Link } from "react-router-dom";
+import "./index.css";
 
 const Header = () => {
   const navTextDefault = {
-    color: 'white',
-    textDecoration: 'none',
+    color: "white",
+    textDecoration: "none",
   };
 
   return (
